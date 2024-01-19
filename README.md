@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rod</h1>
-<h3 align="center">A passionate frontend developer from the US</h3>
 
 - 🔭 I’m currently working on **Developing my skills on Ruby on Rails**
 
