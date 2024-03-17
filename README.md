@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rod</h1>
 
-- 🔭 I’m currently working on **Developing my skills on Ruby on Rails**
+- 🔭 I’m currently working on **Developing my skills on C++**
 
 - 📫 How to reach me **roderick.vongsa@gmail.com**
 
